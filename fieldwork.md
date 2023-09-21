@@ -1,6 +1,23 @@
-#Newspeak House 2023 Cohort Fieldwork
+# Newspeak House 2023 Cohort Fieldwork
 
-##Event Name
+## Just Stop Oil London Gathering
+
+| Date     | 2023-09-26  |
+| -------  | ----------- |
+| Author   | name        |
+| Venue    | Newspeak Hall |
+| Format   |             |
+
+| Name    | Contact | Project | Affiliation |
+| ------- | ------- | ------- | ----------- |
+| example | example | example | example     |
+
+| Notable URLs |             |
+| -----------  | ----------- |
+| URL          | https://    |
+
+
+## Event Name
 
 | Date     | yyyy-mm-dd  |
 | -------  | ----------- |
