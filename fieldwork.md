@@ -1,8 +1,9 @@
 #Newspeak House 2023 Cohort Fieldwork
 
-##Event name
+##Event Name
 
 | Date     | yyyy-mm-dd  |
+| -------  | ----------- |
 | Author   | name        |
 | Venue    | location    |
 | Format   | format      |
